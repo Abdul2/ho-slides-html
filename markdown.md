@@ -1,18 +1,32 @@
-# Sparx EA
+# Sparx EA 
 
-  * Architecture
-  * Deployment
-  * Other
-----
+---- 
 
-# Architecture
+# Content
 
- 1. Backend
- 2. second item
- 3. third item
+ 1. Deployment
+ 2. Users and Access
+ 3. Ops
 
 zzz
 
-# Backend
+### Deployment  
 
- 
+~~~
+AWS-CTI
+~~~
+
+zzz
+
+### Users and Access  
+
+
+
+zzz
+
+### Access
+
+| Win 7
+|   Win10
+| Own device
+
