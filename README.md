@@ -57,7 +57,9 @@ To build and run container
 
 ./buildandrundocker.sh
 
+```
 
+----
 ### To do
 
 - instead of loading one file provide drop down selection of  markdown files 
