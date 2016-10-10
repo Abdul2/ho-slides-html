@@ -1,32 +1,36 @@
-# Sparx EA 
+## Technolgy A 
 
 ---- 
 
-# Content
+## Content  
 
- 1. Deployment
- 2. Users and Access
- 3. Ops
+ - Deployment
+ - Users and Access
+ - Ops
 
 zzz
 
 ### Deployment  
 
 ~~~
-AWS-CTI
+
+AWS-CTI 
+
+
+
 ~~~
 
 zzz
 
-### Users and Access  
+## Users and Access  
 
 
 
 zzz
 
-### Access
+### Ops
 
 | Win 7
-|   Win10
+| Win10
 | Own device
 
