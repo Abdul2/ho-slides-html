@@ -1,36 +1,35 @@
-## Topic
+## Mycool presentation
 
 ---- 
 
-## Content  
+## Agenda  
 
- - Deployment
- - Users and Access
- - Ops
-
-zzz
-
-### Deployment  
-
-~~~
-
-AWS-CTI 
-
-
-
-~~~
+ - Do something
+ - Do it with a smile
+ - Tell others
 
 zzz
 
-## Users and Access  
+### Do something   
 
-
+ - Keep it simple
+ - Be you
+ - No time for games
 
 zzz
 
-### Ops
+## Do with a smile
 
-| Win 7
-| Win10
-| Own device
+ - Have faith
+ - Include
+ - Drink Tea
+
+zzz
+
+### Tell other
+
+ - Not a zero sum game
+ - its good to talk
+ - Email less
+
 
