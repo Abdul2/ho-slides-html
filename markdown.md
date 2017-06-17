@@ -1,4 +1,4 @@
-## Mycool presentation - changes
+## Mycool presentation 
 
 ---- 
 
